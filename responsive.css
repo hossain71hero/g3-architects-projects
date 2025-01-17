@@ -3,6 +3,12 @@
         
         flex-direction: column;
     }
+    .Loguheader h3 {
+        font-size: 1.5rem;
+    }
+    .Menuheader ul li {
+        margin-right: 10px;
+    }
     .Menuheader ul li a {        
         font-size: 1rem;        
     }
@@ -13,10 +19,7 @@
         font-size: 2rem;
         
     }
-    .Menuheader ul li {
-        
-        margin-right: 18px;
-    }
+   
     .Menuheader ul {
        
         margin: -20px 0px;
