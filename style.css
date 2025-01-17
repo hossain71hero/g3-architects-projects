@@ -1,0 +1,65 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.headerHead{
+    
+   
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.Loguheader h3{
+    font-size: 2.8rem;
+}
+.Menuheader ul{
+    display: flex;
+}
+.Menuheader ul li{
+    list-style: none;
+    margin-right: 25px;
+ 
+}
+.Menuheader ul li a{
+    text-decoration: none;
+    font-size: 1.7rem;
+    color: rgb(6, 0, 12);
+}
+
+/* banner section */
+.banerSection{
+
+}
+.banerContent{
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+}
+.banerContent h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+.banerContent p{
+    color: rgb(128, 140, 150);
+    font-size: 1.1rem;
+}
+.bannerButton button{
+padding: 20px 30px;
+border-radius: 7px;
+border: none;
+background-color: orange;
+margin-bottom: 20px;
+font-size: 1.2rem;
+color: aliceblue;
+
+}
+img{
+    width: 100%;
+}
+
+
+
+
