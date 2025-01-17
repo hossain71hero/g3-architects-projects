@@ -50,4 +50,35 @@
             text-align: center;
             width: 100%;
         }
+
+        /* future list  */
+        .futureList {
+            
+            flex-direction: column;
+        }
+        .futurelistContent {
+            width: 100%;
+           
+        }
+        .futurelistContent h1 {
+            font-size: 3rem;
+            width: 100%;
+           text-align: center;
+        }
+        .futurelistContent p {
+            text-align: center;
+            width: 100%;
+            font-family: "Work Sans", serif;
+        }
+        .listitem {
+    
+            width: 100%;
+            padding: 10px;
+            border-radius: 10%;
+            margin-top: 3%;
+        }
+        .futurelistImg button {
+            left: -55px;
+           
+        }
 }
