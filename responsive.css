@@ -21,5 +21,33 @@
        
         margin: -20px 0px;
     }
-        
+        /* future */
+        .futureSection {
+           
+            flex-direction: column;
+        }
+        .futureImg {
+            
+            grid-gap: 3%;
+            width: 100%;
+        }
+        .futureContent {          
+            width: 100%;          
+        }
+        .futurecontent2  h1{
+            font-size: 1.8rem;
+            text-align: center;
+        }
+        .futurecontent2  p{
+            
+            text-align: center;
+        }
+        .futurecontent2  button{
+            
+            text-align: center;
+        }
+        .futurecontent2  button {
+            text-align: center;
+            width: 100%;
+        }
 }

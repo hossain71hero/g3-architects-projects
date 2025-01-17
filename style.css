@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 .container{
     width: 80%;
     margin: 0 auto;
@@ -45,6 +47,8 @@
 .banerContent p{
     color: rgb(128, 140, 150);
     font-size: 1.1rem;
+    font-family: "Work Sans", serif;
+   font-weight: 400;
 }
 .bannerButton button{
 padding: 20px 30px;
@@ -61,5 +65,43 @@ img{
 }
 
 
+/* futureSection */
+.futureSection{
+    display: flex;
+    margin-top: 60px;
+}
 
+.futureImg{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    width: 50%;
+}
+.futureContent{
+    display: flex;   
+    align-items: center;
+    width: 40%;
+    margin: 0 auto;
+       
+}
+.futurecontent2 button{
+    padding: 20px 30px;
+border-radius: 7px;
+border: none;
+background-color: orange;
+margin-bottom: 20px;
+font-size: 1.2rem;
+color: aliceblue;
 
+}
+.futurecontent2 span{
+    color: orange;
+    font-family: 900;
+}
+.futurecontent2 p{
+    font-family: "Work Sans", serif;
+    font-weight: 400;
+}
+.futurecontent2  h1{
+    font-size: 2.5rem;
+}
