@@ -81,4 +81,14 @@
             left: -55px;
            
         }
+
+        /*  card section */
+        .card_items {
+            
+            flex-direction: column;
+        }
+        .card_Content p {
+            
+            width: 100%;
+        }
 }
