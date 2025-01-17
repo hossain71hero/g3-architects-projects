@@ -200,9 +200,30 @@ color: aliceblue;
     border-radius: 20%;
     width: 45%;
     margin-bottom: -20px;
-  
 
-    
-   
+}
 
+/* sponcerConter */
+.sponcerConter{
+    text-align: center;
+    margin: 100px;
+}
+.sponcerConter h1{
+    font-size: 40px;
+    font-family: "Work Sans", serif;
+}
+.sponcers_img{
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-around;
+    gap: 100px;
+    opacity: 0.5;
+}
+
+/* foter */
+.foter{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #fff4e7;
+    padding: 15px ;
 }
