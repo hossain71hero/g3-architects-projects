@@ -101,9 +101,19 @@
         .sponcers_img{
             width: 100%;
         }
-        .sponcerConter {
-            text-align: center;
+        .sponcerConter p {
+         
+         
+               
+        
+         
+   
+       
           
+        }
+        .sponcerConter h1 {
+            font-size: 25px;
+            
         }
         .sponcers_img {
            
